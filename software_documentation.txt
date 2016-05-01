@@ -1,0 +1,8 @@
+"fibonacci_3" is a program written in the Python programming language.
+
+Important functions used in the program are listed below.
+1. The function, inputNumber(message) ensures that the user input is strictly a positive integer.
+2. The function fib(n) calculates Fibonacci number for the user input fib(n). It was determined to use matrix algebra method to calculate fib(n) for quicker calculation.
+3. For quicker validation of primality test, program makes use of the function isPrime(num)
+4. Whenever quicker validation by the function isPrime(num) fails, the function rabinMiller(num) is called for deterministic validation.
+
