@@ -3,7 +3,6 @@ python code submitted as a part of application
 <br />
 <br />
 README  
-<br />
  "fibonacci_3" is a successfully tested program file written in Python programming language. This program needs to be executed on python environment. On execution, code will ask user for input. It will display the output as per the logic mentioned below. but, for multiple user entries, code needs to be re-executed separately.   
  <br />
  <br />
@@ -18,10 +17,10 @@ Program will calculate Fibonacci Number, F(n). Otuput will display either 1 or 2
 <br />
 <br />
 LIMITATIONS  
-<br />
 Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" will be displayed.  
 <br />
-Included in the package, you will find..  
+<br />
+WHAT IS INCLUDED IN THE PACKAGE?
 1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
 2. python program "fibonacci_3.py"<br />
 3. Brief description of the important Functions used in the programming is given in "software_documentation.txt""<br />
