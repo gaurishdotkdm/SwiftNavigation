@@ -20,7 +20,7 @@ LIMITATIONS
 Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" will be displayed.  
 <br />
 <br />
-WHAT IS INCLUDED IN THE PACKAGE?
+WHAT IS INCLUDED IN THE PACKAGE?<br />
 1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
 2. python program "fibonacci_3.py"<br />
 3. Brief description of the important Functions used in the programming is given in "software_documentation.txt""<br />
