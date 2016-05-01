@@ -23,7 +23,8 @@ Please note that the program takes only positive integer as input. For any other
 <br />
 Included in the package, you will find..  
 1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
-2. python program "fibonacci_3"<br />
+2. python program "fibonacci_3.py"<br />
+3. Brief description of the important Functions used in the programming is given in "software_documentation.txt""<br />
 <br />
 <br />
 CONTACT  
