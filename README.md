@@ -21,9 +21,9 @@ LIMITATIONS
 <br />
 Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" will be displayed.  
 <br />
-Included in the package, you will find 
-1. Output generated for sample of inputs in the file "sample_input_output.txt"  
-2. python program "fibonacci_3"  
+Included in the package, you will find..  
+1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
+2. python program "fibonacci_3"<br />
 <br />
 <br />
 CONTACT  
