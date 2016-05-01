@@ -1,0 +1,46 @@
+Please enter a positive integer 09
+34
+
+In [5]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer 10
+Fizz
+
+In [6]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer 87
+679891637638612258
+
+In [7]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer 88
+Buzz
+
+In [8]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer 89
+BuzzFizz
+
+In [9]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer -09
+Oops!  That was no valid number. Please enter a positive integer 
+
+Please enter a positive integer -kjh
+Oops!  That was no valid number. Please enter a positive integer 
+
+Please enter a positive integer *&*
+Oops!  That was no valid number. Please enter a positive integer 
+
+Please enter a positive integer 100
+Buzz
+
+In [10]: %run "C:/Users/gaurish/Documents/temp_python/Docs/Code/fibonacci_3.py"
+
+Please enter a positive integer 100
+Buzz
+
+Fizz
+
+
+
