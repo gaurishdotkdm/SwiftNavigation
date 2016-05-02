@@ -7,7 +7,7 @@ README
  <br />
  <br />
 HOW TO USE THIS PROGRAM AND WHAT OUTPUT TO EXPECT?  
-On execution of the program, message "Enter a number " is displayed on the screen. User is required to input the entry and hit enter.<br />
+On execution of the program, message "Please enter a positive integer " is displayed on the screen. User is required to input the entry and hit enter.<br />
 <br />
 <br /> 
 Program calculates the Fibonacci Number, F(n). Otuput displayed on the screen is either 1 or 2 of the 4 items listed below.  
@@ -18,7 +18,7 @@ Program calculates the Fibonacci Number, F(n). Otuput displayed on the screen is
 <br />
 <br />
 LIMITATIONS  
-Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" will be displayed.  
+Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" is displayed. Program continue to execute until the user enters a positive integer.
 <br />
 <br />
 WHAT IS INCLUDED IN THE PACKAGE?<br />
