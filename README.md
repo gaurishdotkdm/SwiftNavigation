@@ -9,7 +9,6 @@ README
 HOW TO USE THIS PROGRAM AND WHAT OUTPUT TO EXPECT?  
 On execution of the program, message "Please enter a positive integer " is displayed on the screen. User is required to input the entry and hit enter.<br />
 <br />
-<br /> 
 Program calculates the Fibonacci Number, F(n). Otuput displayed on the screen is either 1 or 2 of the 4 items listed below.  
 1. Keyword "Buzz" when Fibonacci number, F(n) is divisible by 3  
 2. Keyword "Fizz" when Fibonacci number, F(n) is divisible by 5  
@@ -18,13 +17,13 @@ Program calculates the Fibonacci Number, F(n). Otuput displayed on the screen is
 <br />
 <br />
 LIMITATIONS  
-Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" is displayed. Program continue to execute until the user enters a positive integer.
+Please note that the program takes only positive integer as input. For any other input values, a message "Please enter a positive integer" is displayed. Program continue to execute until the user enters a positive integer.<br />
 <br />
 <br />
 WHAT IS INCLUDED IN THE PACKAGE?<br />
 1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
 2. python program "fibonacci.py"<br />
-3. Brief description of the important Functions used in the programming is given in "software_documentation.txt""<br />
+3. Brief description of the important Functions used in the program is given in "software_documentation.txt""<br />
 <br />
 <br />
 CONTACT  
