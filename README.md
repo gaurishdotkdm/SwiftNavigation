@@ -3,7 +3,7 @@ python code submitted as a part of application
 <br />
 <br />
 README  
- "fibonacci" is a successfully tested program file written in Python programming language. This program needs to be executed on python environment. On execution, code will ask user for input. It will display the output as per the logic mentioned below. but, for multiple user entries, code needs to be re-executed separately.   
+ "fibonacci" is a successfully tested program file written in Python programming language. This program needs to be executed on python environment. It was tested on Python 2.7.6 On execution, code expect input from user. On relevent user entry, it displays the output as per the logic mentioned below. But, for multiple user entries, code needs to be re-executed separately.<br />
  <br />
  <br />
 HOW TO USE THIS PROGRAM AND WHAT OUTPUT TO EXPECT?  
