@@ -3,7 +3,7 @@ python code submitted as a part of application
 <br />
 <br />
 README  
- "fibonacci_3" is a successfully tested program file written in Python programming language. This program needs to be executed on python environment. On execution, code will ask user for input. It will display the output as per the logic mentioned below. but, for multiple user entries, code needs to be re-executed separately.   
+ "fibonacci" is a successfully tested program file written in Python programming language. This program needs to be executed on python environment. On execution, code will ask user for input. It will display the output as per the logic mentioned below. but, for multiple user entries, code needs to be re-executed separately.   
  <br />
  <br />
 HOW TO USE THIS PROGRAM AND WHAT OUTPUT TO EXPECT?  
@@ -22,7 +22,7 @@ Please note that the program takes only positive integer as input. For any other
 <br />
 WHAT IS INCLUDED IN THE PACKAGE?<br />
 1. Output generated for sample of inputs in the file "sample_input_output.txt"<br />
-2. python program "fibonacci_3.py"<br />
+2. python program "fibonacci.py"<br />
 3. Brief description of the important Functions used in the programming is given in "software_documentation.txt""<br />
 <br />
 <br />
