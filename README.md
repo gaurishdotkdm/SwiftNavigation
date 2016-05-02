@@ -7,9 +7,10 @@ README
  <br />
  <br />
 HOW TO USE THIS PROGRAM AND WHAT OUTPUT TO EXPECT?  
-On execution of the program, user will see message "Enter a number " being printed on the display. User is required to input the entry and hit enter.  
+On execution of the program, message "Enter a number " is displayed on the screen. User is required to input the entry and hit enter.<br />
+<br />
 <br /> 
-Program will calculate Fibonacci Number, F(n). Otuput will display either 1 or 2 of these 4 items listed below.  
+Program calculates the Fibonacci Number, F(n). Otuput displayed on the screen is either 1 or 2 of the 4 items listed below.  
 1. Keyword "Buzz" when Fibonacci number, F(n) is divisible by 3  
 2. Keyword "Fizz" when Fibonacci number, F(n) is divisible by 5  
 3. Keyword "BuzzFizz" when Fibonacci number, F(n) is a prime number  
