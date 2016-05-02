@@ -1,4 +1,4 @@
-"fibonacci_3" is a program written in the Python programming language.
+"fibonacci" is a program written in the Python programming language.
 
 Important functions used in the program are listed below.
 1. The function, inputNumber(message) ensures that the user input is strictly a positive integer.
